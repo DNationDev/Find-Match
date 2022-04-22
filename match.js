@@ -14,7 +14,7 @@ window.addEventListener('DOMContentLoaded', e =>{
     results.innerHTML = count;
     addBoxes();
     revealBox();
-    
+     
 })
 
 const addBoxes = () =>{
